@@ -1,4 +1,4 @@
-# 🧠 Comprehensive Women Safety EcoSystem – Multi-Modal Safety Infrastructure
+# 🧠 Comprehensive Women Safety EcoSystem – Multi-Modal Safety Infrastructure.
 
 This is a comprehensive, multi-layered project designed to enhance women’s safety using a combination of **AI surveillance**, **mobile application**, and **IoT wearable technology**. The system aims to monitor, detect, and alert during suspicious or emergency situations using smart automation and human-centered design.
 
